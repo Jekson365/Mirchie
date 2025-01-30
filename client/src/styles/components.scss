@@ -1,0 +1,30 @@
+.nav-bar {
+  box-shadow: 0 !important;
+  background-color: transparent !important;
+  .nav-item {
+    color: black !important;
+  }
+}
+
+.auth-container {
+  max-width: 600px;
+  width: 100%;
+  .input-field {
+    padding: 10px;
+  }
+}
+
+.action-button {
+  border: 0;
+  outline: 0;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 3px;
+  padding: 7px 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+  &:hover {
+    transform: scale(1.1);
+  }
+}

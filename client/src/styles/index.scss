@@ -1,0 +1,16 @@
+@import "./config.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: $font-geo !important;
+}
+
+.app-body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.box-shadow-none {
+  box-shadow: 0 !important;
+}

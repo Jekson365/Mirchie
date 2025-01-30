@@ -1,0 +1,15 @@
+{
+    "name": "jeko/api",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeko",
+            "email": "jeko.erg@gamil.com"
+        }
+    ],
+    "require": {}
+}
